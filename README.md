@@ -1,1 +1,1 @@
-# linkedIn-clone
+# Jop Portal ReactJs (Redux Firebase)
